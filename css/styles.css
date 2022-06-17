@@ -19,7 +19,7 @@ Fuente de la página
 
 body{
     font-family: 'Poppins', sans-serif;
-    font-weight: 50;
+    font-weight: 200;
     background-color: hsl(0, 0%, 93%);
 }
 
@@ -30,13 +30,13 @@ body{
 
 .first-part-title{
     margin-bottom: 10px;
-    font-weight: 100;
+    font-weight: 200;
     
 }
 
 .second-part-title{
     margin-bottom: 10px;
-    font-weight:400;
+    font-weight:600;
 }
 
 .header-description{
